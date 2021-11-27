@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghuneeralagi
+- 👋 Hello, I’m @raghavendra
 - 👀 I’m interested in learning and creating new things
 - 🌱 I’m currently learning Computer science Engineering.
 - 💞️ I’m looking to collaborate on web development and machine learning
